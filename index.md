@@ -1,59 +1,46 @@
 ---
-title: Start a Fucking Blog
-description: Go on, do it right fucking now - it's the best thing on the web you can do.
+title: Hello, World!
+description: Iniciando uma nova entapa na minha jornada e registrando em um blog pessoal.
 layout: default
 ---
 
 {: .large}
-This is a fucking blog, and it's wonderful. It's perfect. It allows you to share your words, in your own voice, with no corporate fuckery to fuck it up for you.
 
-Blogs are very fucking important, because they allow you to own your content. Whatever you share, it's yours and no fucks, like Elon Fucking Musk, can take that away from you.
+Sempre tive vontade de escrever e compartilhar o que estou aprendendo e como estou aprendendo. Registrar tudo em um blog parece ser uma forma interessante de fazer isso.
 
-They can't ban you from your own blog. They can't silence you. They can't make money from you. Fuck them.
+Provavelmente esse site irá durar somente 1 ano pois é o tempo de validade do domínio do name.com.
 
-**Start a fucking blog.**
+**Parando de enrolar**
 
-This is a perfect blog. you can host it for free on [Netlify](https://netlify.com). It has no fucking bloat, and people who come visit your blog won't be tracked.
+Como comentei sempre quis compartilhar porem sempre coloquei empecilhos, entre eles:
 
-It's fucking perfect.
+- Não escrevo bem o suficiente
+- Não tenho tempo
+- Não tenho experiencia nenhuma na area
+- Ninguém vai ver mais um post sobre html, css, javascript ou python
 
-## Why you should start a fucking blog
+E mais um bocado de desculpas esfarrapadas
 
-Why the fuck aren't you convinced yet? Do I still need to explain why a fucking blog is a good fucking idea? Ok then, fuck it...
+## Por que começar agora?
 
-[Read this fucking post on The Verge](https://www.theverge.com/23513418/bring-back-personal-blogging); it should tell you everything you need to know about why you should start a fucking blog. If you're still not convinced, then you should probably just fuck off.
+Usando o twitter me deparei com um post indicando o seguinte site: [Start a Fucking Blog](https://startafuckingblog.com/)
 
-**Start a fucking blog.**
+Pareceu simples de mais para começar e como estava procrastinando meus estudos de banco de dados resolvi criar o blog e já fazer o primeiro post sobre isso.
 
-### POSSE every-fucking-thing
+Além disso sinto que estou muito perto da minha primeira vaga na área de desenvolvimento logo é um excelente momento para escrever sobre minha jornada pessoal e ter um registro das aflições, das tristezas e das alegrias durante o meu processo de crescimento e amadurecimento como desenvolvedor.
 
-POSSE is the shittest acronym that was ever thought up, but it means *Post to your Own Site, Syndicate Everywhere* (told you it was shit).
+Fora que pretendo fazer vários projetinhos legais durante o ano e isso vale a pena compartilhar no formato de texto para que eu possa discorrer sobre o processo desde a ideia até o deploy.
 
-So you write your fucking posts on your fucking blog, then post links to your fucking posts on your social fucking media. That way, everyone goes to your fucking blog and you're not feeding Elon Fucking Musk's algorithm. 
+Já até fiz um usando IA e Azure: []()
 
-**Fuck him.**
+## Sem prazos
 
-## How to start your own fucking blog
+Me conhecendo bem provavelmente serão poucos posts, mas se tudo der certo quero no mínimo 12, um por mês com o resumo do que fiz do que estudei e de que projetos e processos seletivos participei. Caso me empolgue muito e aprenda a produzi posts com um bom conteúdo técnico esse numero pode ser maior.
 
-It's easy as fuck. You can [clone this repository on Github](https://github.com/kevquirk/startablog), edit the fuck out of it, then [publish your own version on Netlify](https://docs.netlify.com/get-started/).
 
-If you don't want all that fucking around, [start a fucking Bear Blog instead](https://bearblog.dev).
+## Finalmente
 
-Congratulations, you're a fucking blogger. Now get the fuck out of here and start writing [some fucking posts](/fucking-blog/).
+Enfim já estou mega feliz de ter conseguido produzir esse primeiro post e de conseguir colocar o blog no ar de forma gratuita, espero que esse projeto evolua ao longo do ano e que venham mais posts!
 
-## Finally, fuck Twitter
-
-Why the fuck are you still using Twitter? It's not even Twitter anymore, it's fucking "X". Once you've started your fucking blog, get over to [Join Mastodon](https://joinmastodon.org) and sign up for that instead.
-
-Then, edit your fucking "X" profile to say something like...
-
-> Fuck Twitter and the "X". I'm on fucking Mastodon instead. 
-
-## This is fucking satire
-
-This site was heavily influenced by the geniuses behind [Motherfucking Website](http://motherfuckingwebsite.com) and [Better Motherfucking Website](http://bettermotherfuckingwebsite.com).
-
-Although this site has been created as a bit of fun, the message behind it is a serious one. Don't feed the algorithms [the web is already fucked](https://thewebisfucked.com), let's not make it any worse.
-
-Own your content; **start a fucking blog.**
+- Goodbye!
 
