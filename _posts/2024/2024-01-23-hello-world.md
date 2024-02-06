@@ -33,7 +33,7 @@ Além disso, sinto que estou muito perto da minha primeira vaga na área de dese
 
 Fora que pretendo fazer vários projetinhos legais durante o ano, e isso vale a pena compartilhar no formato de texto para que eu possa discorrer sobre o processo desde a ideia até o deploy.
 
-Já até fiz um usando IA e Azure: [link para o projeto]()
+Já até fiz um usando IA e Azure: [link para o projeto](https://github.com/diogoodev/analyse-and-generate-images-with-Azure-IA)
 
 ## Sem prazos
 
